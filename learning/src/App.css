@@ -1,0 +1,9 @@
+*{
+  text-align: center;
+}
+.error {
+  border: 1px solid red;
+}
+.star{
+  text-align: right;
+}
